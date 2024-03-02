@@ -1,0 +1,17 @@
+SELECT name FROM cats;
+
+
+SELECT name, age FROM cats;
+
+
+SELECT DISTINCT name FROM cats;
+
+
+SELECT * FROM [table name] Where [column name] = [some value];
+
+
+SELECT * FROM cats WHERE name = "Maru";
+
+
+
+SELECT * FROM cats WHERE age < 2;

@@ -1,0 +1,1 @@
+sqlite3 pets_database.db < "01_insert_cats_into_cats_table.sql"

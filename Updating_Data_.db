@@ -1,0 +1,10 @@
+	UPDATE [table name] SET [column name ] = [ new value] WHERE [column name] = [value];
+
+    UPDATE cats SET name = "Hannah" WHERE name = "Hannah";
+
+    UPDATE cats SET name = "Hannah" WHERE name = "Hannah";
+
+
+
+
+    
